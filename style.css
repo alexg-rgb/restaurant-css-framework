@@ -73,15 +73,14 @@ h2 {
     border-radius: 5px;
     opacity: 0.7;
 }
+.schedule li {
+    background-color: rgb(221, 185, 118);
+    border-style: unset;
+}
 .schedule table:hover {
     opacity: 1;
 }
-table h4 {
-    background-color: grey;
-    width: 15%;
-    text-align: center;
-    border-radius: 5px;
-}
+
 /*Contact*/
 .formulaire button {
     background-color: rgb(236, 99, 8);
