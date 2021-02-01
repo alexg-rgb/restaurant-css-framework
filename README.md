@@ -17,6 +17,10 @@
 - CSS3
 - Bootstrap
 
+## Website sketch
+
+<img src="images/restaurantSketch.png">
+
 ## Pictures credit
 
 - All the pictures of this project come from [Unsplash](https://unsplash.com)
